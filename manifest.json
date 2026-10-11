@@ -1,0 +1,9 @@
+{
+  "id": "ben-plaud-sync",
+  "name": "Ben Plaud Sync",
+  "version": "0.1.4",
+  "minAppVersion": "1.4.0",
+  "description": "Private, manual, text-only legacy PLAUD importer with session-only credentials and immutable notes.",
+  "author": "Ben (private build); based on Leonard Sellem's Plaud Sync",
+  "isDesktopOnly": true
+}

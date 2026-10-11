@@ -1,0 +1,15 @@
+{
+  "name": "ben-plaud-sync",
+  "version": "0.1.4",
+  "private": true,
+  "description": "Manual PLAUD text import preview for Obsidian desktop",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.cjs",
+    "build": "node scripts/build.cjs",
+    "check": "npm run build && npm test"
+  }
+}

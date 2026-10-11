@@ -1,0 +1,11 @@
+node_modules/
+*.log
+.DS_Store
+.env*
+data.json
+.obsidian/
+staging/
+rollback/
+*.zip
+*.png
+*.jpg
